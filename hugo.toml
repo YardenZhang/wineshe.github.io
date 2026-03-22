@@ -1,82 +1,33 @@
 baseURL = "https://www.mojia.org/"
 languageCode = "zh-CN"
 title = "墨家Mojia"
-theme = "PaperMod"
+theme = "hugo-diary-main"
 
 [params]
-  author = "墨家"
-  description = "一个人的独白"
-  keywords = ["生活", "日记", "博客"]  # ✅ 用 =，且字符串加引号
-  images = ["https://wineshe.oss-cn-shanghai.aliyuncs.com/typecho/2025/12/18/wecenter-logo.png"]
-  DateFormat = "January 2, 2008"       # ✅ 用 =
-  defaultTheme = "auto"                # ✅ 用 =
-  disableThemeToggle = false
-  ShowReadingTime = true
-  ShowShareButtons = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowWordCount = true
-  ShowRssButtonInSectionTermList = true
-  UseHugoToc = true
-
-  [params.analytics]
-    [params.analytics.google]
-      SiteVerificationTag = "G-XXXXXXXXXX"
-
-  [params.assets]
-    favicon = "/favicon.ico"
-    favicon16x16 = "/favicon-16x16.png"
-    favicon32x32 = "/favicon-32x32.png"
-    apple_touch_icon = "/apple-touch-icon.png"
-    safari_pinned_tab = "/safari-pinned-tab.svg"
-
-  [params.profileMode]
-    enabled = false
-
-  [params.homeInfoParams]
-    Title = "Hi there 👋"
-    Content = "Welcome to my blog"
-
-  [[params.socialIcons]]
-    name = "email"
-    url = "mailto:151858587@qq.com"
-  [[params.socialIcons]]
-    name = "weibo"
-    url = "https://weibo.com/u/2034225207"
-  [[params.socialIcons]]
-    name = "rss"
-    url = "/index.xml"
-
-  [params.fuseOpts]
-    isCaseSensitive = false
-    shouldSort = true
-    location = 0
-    distance = 1000
-    threshold = 0.4
-    minMatchCharLength = 0
-    limit = 10
-    keys = ["title", "permalink", "summary"]
-
-[[menu.main]]
-  identifier = "categories"
-  name = "Categories"
-  url = "/categories/"
-  weight = 10
-
-[[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
-  weight = 20
-
-[[menu.main]]
-  identifier = "about"
-  name = "About"
-  url = "/about/"
-  weight = 30
-
-pygmentsUseClasses = true
+subtitle = "一个人的独白"
+description = "一个人的独白"
+enableGiscus = true
+disableDarkmode = false
 
 [markup]
   [markup.highlight]
     noClasses = false
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[[menu.main]]
+  url = "/categories"
+  name = "Categories"
+  weight = 2
+
+[[menu.main]]
+  url = "/tags"
+  name = "Tags"
+  weight = 3
+
+[[menu.main]]
+  url = "/posts"
+  name = "Archive"
+  weight = 1

@@ -1,92 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>技术 on 墨家Mojia</title>
-    <link>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF/</link>
+    <link>http://localhost:1316/tags/%E6%8A%80%E6%9C%AF/</link>
     <description>Recent content in 技术 on 墨家Mojia</description>
-    <image>
-      <title>墨家Mojia</title>
-      <url>https://wineshe.oss-cn-shanghai.aliyuncs.com/typecho/2025/12/18/wecenter-logo.png</url>
-      <link>https://wineshe.oss-cn-shanghai.aliyuncs.com/typecho/2025/12/18/wecenter-logo.png</link>
-    </image>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 08 Jan 2026 10:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>真正有阅历、有实力的人，往往从不急于“好为人师”？</title>
-      <link>http://localhost:1313/posts/%E7%9C%9F%E6%AD%A3%E6%9C%89%E9%98%85%E5%8E%86%E6%9C%89%E5%AE%9E%E5%8A%9B%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E4%BB%8E%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%A5%BD%E4%B8%BA%E4%BA%BA%E5%B8%88/</link>
+      <link>http://localhost:1316/posts/%E7%9C%9F%E6%AD%A3%E6%9C%89%E9%98%85%E5%8E%86%E6%9C%89%E5%AE%9E%E5%8A%9B%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E4%BB%8E%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%A5%BD%E4%B8%BA%E4%BA%BA%E5%B8%88/</link>
       <pubDate>Thu, 08 Jan 2026 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E7%9C%9F%E6%AD%A3%E6%9C%89%E9%98%85%E5%8E%86%E6%9C%89%E5%AE%9E%E5%8A%9B%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E4%BB%8E%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%A5%BD%E4%B8%BA%E4%BA%BA%E5%B8%88/</guid>
-      <description>&lt;p&gt;你有没有留意过，那些真正有阅历、有实力的人，往往从不急于“好为人师”？&lt;/p&gt;
-&lt;p&gt;哪怕他们一眼看穿你正走在弯路上，甚至眼睁睁看着你即将做出一个错误的决定——只要你不主动开口求助，他们多半会选择沉默，甚至若无其事地跟你聊起天气、电影，或晚饭吃什么。&lt;/p&gt;
-&lt;p&gt;这听起来是不是有些冷漠，甚至残忍？&lt;/p&gt;
-&lt;p&gt;但你真的相信，仅凭几句道理，就能唤醒一个人吗？&lt;/p&gt;
-&lt;p&gt;收起泛滥的助人情结：指点，往往是得罪人的开始&lt;/p&gt;
-&lt;p&gt;我们常犯的一个毛病，就是太过热心。&lt;/p&gt;
-&lt;p&gt;总以为把自己摸爬滚打换来的经验倾囊相授，是在帮别人避坑。&lt;/p&gt;
-&lt;p&gt;可为什么这样的人，反而容易被贴上“油腻”的标签？&lt;/p&gt;
-&lt;p&gt;因为在人际交往中，任何未经请求的指点，无论初衷多么善意，在对方听来，都只有两个字：傲慢。&lt;/p&gt;
-&lt;p&gt;当你试图“教”别人做事时，潜意识里其实传递了一个信号：&lt;/p&gt;
-&lt;p&gt;“我比你聪明，我比你看得远。”&lt;/p&gt;
-&lt;p&gt;这种居高临下的姿态，没人会真正喜欢。&lt;/p&gt;
-&lt;p&gt;况且，人性复杂：&lt;/p&gt;
-&lt;p&gt;如果对方因你的建议做对了事，他大概率不会归功于你，只会觉得是自己底子好、悟性强；&lt;/p&gt;
-&lt;p&gt;可一旦结果不如意，所有责任都会反手甩到你头上——是你“瞎指挥”，是你“没说清楚”。&lt;/p&gt;
-&lt;p&gt;《道德经》有言：“知者不言，言者不知。”&lt;/p&gt;
-&lt;p&gt;你的经验未必适合他人。每个人的成长路径、认知结构、人生际遇都不同。&lt;/p&gt;
-&lt;p&gt;有些因果，只能由本人承担；有些弯路，必须亲自走过。&lt;/p&gt;
-&lt;p&gt;不该你扛的责任，别揽；别人没求你解决的问题，也别急着插手——&lt;/p&gt;
-&lt;p&gt;这既是对他人命运的尊重，也是对自己的保护。&lt;/p&gt;
-&lt;p&gt;让人成长的，从来不是道理，而是南墙&lt;/p&gt;
-&lt;p&gt;王阳明曾说：“知而不行，只是未知。”&lt;/p&gt;
-&lt;p&gt;很多人听不进道理，并非听不懂，而是还没“痛”够。&lt;/p&gt;
-&lt;p&gt;我们都懂很多道理，可该踩的坑一个没少——为什么？&lt;/p&gt;
-&lt;p&gt;因为没有切肤之痛，道理就只是轻飘飘的句子。&lt;/p&gt;
-&lt;p&gt;正如陆游所叹：“纸上得来终觉浅，绝知此事要躬行。”&lt;/p&gt;
-&lt;p&gt;这个世界上，没有人能靠听一句金玉良言就完成蜕变。&lt;/p&gt;
-&lt;p&gt;真正的成长，都是撞了南墙、摔了跟头、被现实狠狠揍过之后才发生的顿悟。&lt;/p&gt;
-&lt;p&gt;你苦口婆心讲一千遍，他可能左耳进右耳出；&lt;/p&gt;
-&lt;p&gt;但社会一记铁拳砸下来，让他疼得彻夜难眠，他瞬间就明白了。&lt;/p&gt;
-&lt;p&gt;对于尚未准备好改变的人，或骨子里固执己见的人，&lt;/p&gt;
-&lt;p&gt;你的劝诫不过是噪音。&lt;/p&gt;
-&lt;p&gt;良言难劝该死鬼，慈悲不渡自绝人。&lt;/p&gt;
-&lt;p&gt;每个人都有自己的命运剧本——&lt;/p&gt;
-&lt;p&gt;有些路，必须自己走；有些苦，必须亲自尝。&lt;/p&gt;
-&lt;p&gt;你强行拉他一把，说不定还被怨你挡了他“修行”的道。&lt;/p&gt;
-&lt;p&gt;收起泛滥的控制欲：只筛选，不教育&lt;/p&gt;
-&lt;p&gt;庄子有言：&lt;/p&gt;
-&lt;p&gt;“井蛙不可以语于海者，拘于虚也；夏虫不可以语于冰者，笃于时也。”&lt;/p&gt;
-&lt;p&gt;成年人的世界，最清醒的社交准则只有一条：&lt;/p&gt;
-&lt;p&gt;只做筛选，不做教育。&lt;/p&gt;
-&lt;p&gt;与其耗尽心力去改变一个三观不合的人，&lt;/p&gt;
-&lt;p&gt;或试图叫醒一个装睡的人，&lt;/p&gt;
-&lt;p&gt;不如把这份精力留给自己。&lt;/p&gt;
-&lt;p&gt;志同道合者，便并肩同行一段；&lt;/p&gt;
-&lt;p&gt;话不投机者，就微笑点头，悄然远离。&lt;/p&gt;
-&lt;p&gt;真正的尊重，是尊重他人犯错的权利，&lt;/p&gt;
-&lt;p&gt;也尊重他们失败的自由。&lt;/p&gt;
-&lt;p&gt;一个人若自己不争气，再多外力也扶不起；&lt;/p&gt;
-&lt;p&gt;若内心不愿行动，再好的资源也落不到他身上。&lt;/p&gt;
-&lt;p&gt;说到底，每个人最终都只能靠自己。&lt;/p&gt;
-&lt;p&gt;没人能永远背着另一个人走完人生。&lt;/p&gt;
-&lt;p&gt;我们能做的，是：&lt;/p&gt;
-&lt;p&gt;少干涉，多理解；&lt;/p&gt;
-&lt;p&gt;少指点，多成长；&lt;/p&gt;
-&lt;p&gt;少把时间浪费在劝醒别人，&lt;/p&gt;
-&lt;p&gt;多把力气用在成全自己。&lt;/p&gt;</description>
+      <guid>http://localhost:1316/posts/%E7%9C%9F%E6%AD%A3%E6%9C%89%E9%98%85%E5%8E%86%E6%9C%89%E5%AE%9E%E5%8A%9B%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E4%BB%8E%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%A5%BD%E4%B8%BA%E4%BA%BA%E5%B8%88/</guid>
+      <description>&lt;p&gt;你有没有留意过，那些真正有阅历、有实力的人，往往从不急于“好为人师”？&lt;/p&gt;&#xA;&lt;p&gt;哪怕他们一眼看穿你正走在弯路上，甚至眼睁睁看着你即将做出一个错误的决定——只要你不主动开口求助，他们多半会选择沉默，甚至若无其事地跟你聊起天气、电影，或晚饭吃什么。&lt;/p&gt;&#xA;&lt;p&gt;这听起来是不是有些冷漠，甚至残忍？&lt;/p&gt;&#xA;&lt;p&gt;但你真的相信，仅凭几句道理，就能唤醒一个人吗？&lt;/p&gt;&#xA;&lt;p&gt;收起泛滥的助人情结：指点，往往是得罪人的开始&lt;/p&gt;&#xA;&lt;p&gt;我们常犯的一个毛病，就是太过热心。&lt;/p&gt;&#xA;&lt;p&gt;总以为把自己摸爬滚打换来的经验倾囊相授，是在帮别人避坑。&lt;/p&gt;&#xA;&lt;p&gt;可为什么这样的人，反而容易被贴上“油腻”的标签？&lt;/p&gt;&#xA;&lt;p&gt;因为在人际交往中，任何未经请求的指点，无论初衷多么善意，在对方听来，都只有两个字：傲慢。&lt;/p&gt;&#xA;&lt;p&gt;当你试图“教”别人做事时，潜意识里其实传递了一个信号：&lt;/p&gt;&#xA;&lt;p&gt;“我比你聪明，我比你看得远。”&lt;/p&gt;&#xA;&lt;p&gt;这种居高临下的姿态，没人会真正喜欢。&lt;/p&gt;&#xA;&lt;p&gt;况且，人性复杂：&lt;/p&gt;&#xA;&lt;p&gt;如果对方因你的建议做对了事，他大概率不会归功于你，只会觉得是自己底子好、悟性强；&lt;/p&gt;&#xA;&lt;p&gt;可一旦结果不如意，所有责任都会反手甩到你头上——是你“瞎指挥”，是你“没说清楚”。&lt;/p&gt;&#xA;&lt;p&gt;《道德经》有言：“知者不言，言者不知。”&lt;/p&gt;&#xA;&lt;p&gt;你的经验未必适合他人。每个人的成长路径、认知结构、人生际遇都不同。&lt;/p&gt;&#xA;&lt;p&gt;有些因果，只能由本人承担；有些弯路，必须亲自走过。&lt;/p&gt;&#xA;&lt;p&gt;不该你扛的责任，别揽；别人没求你解决的问题，也别急着插手——&lt;/p&gt;&#xA;&lt;p&gt;这既是对他人命运的尊重，也是对自己的保护。&lt;/p&gt;&#xA;&lt;p&gt;让人成长的，从来不是道理，而是南墙&lt;/p&gt;&#xA;&lt;p&gt;王阳明曾说：“知而不行，只是未知。”&lt;/p&gt;&#xA;&lt;p&gt;很多人听不进道理，并非听不懂，而是还没“痛”够。&lt;/p&gt;&#xA;&lt;p&gt;我们都懂很多道理，可该踩的坑一个没少——为什么？&lt;/p&gt;&#xA;&lt;p&gt;因为没有切肤之痛，道理就只是轻飘飘的句子。&lt;/p&gt;&#xA;&lt;p&gt;正如陆游所叹：“纸上得来终觉浅，绝知此事要躬行。”&lt;/p&gt;&#xA;&lt;p&gt;这个世界上，没有人能靠听一句金玉良言就完成蜕变。&lt;/p&gt;&#xA;&lt;p&gt;真正的成长，都是撞了南墙、摔了跟头、被现实狠狠揍过之后才发生的顿悟。&lt;/p&gt;&#xA;&lt;p&gt;你苦口婆心讲一千遍，他可能左耳进右耳出；&lt;/p&gt;&#xA;&lt;p&gt;但社会一记铁拳砸下来，让他疼得彻夜难眠，他瞬间就明白了。&lt;/p&gt;&#xA;&lt;p&gt;对于尚未准备好改变的人，或骨子里固执己见的人，&lt;/p&gt;&#xA;&lt;p&gt;你的劝诫不过是噪音。&lt;/p&gt;&#xA;&lt;p&gt;良言难劝该死鬼，慈悲不渡自绝人。&lt;/p&gt;&#xA;&lt;p&gt;每个人都有自己的命运剧本——&lt;/p&gt;&#xA;&lt;p&gt;有些路，必须自己走；有些苦，必须亲自尝。&lt;/p&gt;&#xA;&lt;p&gt;你强行拉他一把，说不定还被怨你挡了他“修行”的道。&lt;/p&gt;&#xA;&lt;p&gt;收起泛滥的控制欲：只筛选，不教育&lt;/p&gt;&#xA;&lt;p&gt;庄子有言：&lt;/p&gt;&#xA;&lt;p&gt;“井蛙不可以语于海者，拘于虚也；夏虫不可以语于冰者，笃于时也。”&lt;/p&gt;&#xA;&lt;p&gt;成年人的世界，最清醒的社交准则只有一条：&lt;/p&gt;&#xA;&lt;p&gt;只做筛选，不做教育。&lt;/p&gt;&#xA;&lt;p&gt;与其耗尽心力去改变一个三观不合的人，&lt;/p&gt;&#xA;&lt;p&gt;或试图叫醒一个装睡的人，&lt;/p&gt;&#xA;&lt;p&gt;不如把这份精力留给自己。&lt;/p&gt;&#xA;&lt;p&gt;志同道合者，便并肩同行一段；&lt;/p&gt;&#xA;&lt;p&gt;话不投机者，就微笑点头，悄然远离。&lt;/p&gt;&#xA;&lt;p&gt;真正的尊重，是尊重他人犯错的权利，&lt;/p&gt;&#xA;&lt;p&gt;也尊重他们失败的自由。&lt;/p&gt;&#xA;&lt;p&gt;一个人若自己不争气，再多外力也扶不起；&lt;/p&gt;&#xA;&lt;p&gt;若内心不愿行动，再好的资源也落不到他身上。&lt;/p&gt;&#xA;&lt;p&gt;说到底，每个人最终都只能靠自己。&lt;/p&gt;&#xA;&lt;p&gt;没人能永远背着另一个人走完人生。&lt;/p&gt;&#xA;&lt;p&gt;我们能做的，是：&lt;/p&gt;&#xA;&lt;p&gt;少干涉，多理解；&lt;/p&gt;&#xA;&lt;p&gt;少指点，多成长；&lt;/p&gt;&#xA;&lt;p&gt;少把时间浪费在劝醒别人，&lt;/p&gt;&#xA;&lt;p&gt;多把力气用在成全自己。&lt;/p&gt;</description>
     </item>
     <item>
       <title>我的第一篇博客</title>
-      <link>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E6%96%B0%E6%96%87%E7%AB%A0/</link>
+      <link>http://localhost:1316/posts/%E6%88%91%E7%9A%84%E6%96%B0%E6%96%87%E7%AB%A0/</link>
       <pubDate>Wed, 31 Dec 2025 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E6%96%B0%E6%96%87%E7%AB%A0/</guid>
-      <description>&lt;p&gt;这是我自己发布的第一篇文章，Hugo真的好难用，文章很难发布成功，
-&lt;img alt=&#34;我的照片&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/sunset.jpg&#34;&gt;
-If you were a teardrop;In my eye,
-For fear of losing you,I would never cry
-And if the golden sun,Should cease to shine its light,
-Just one smile from you,Would make my whole world bright.&lt;/p&gt;</description>
+      <guid>http://localhost:1316/posts/%E6%88%91%E7%9A%84%E6%96%B0%E6%96%87%E7%AB%A0/</guid>
+      <description>&lt;p&gt;这是我自己发布的第一篇文章，Hugo真的好难用，文章很难发布成功，&#xA;&lt;img src=&#34;http://localhost:1316/images/sunset.jpg&#34; alt=&#34;我的照片&#34;&gt;&#xA;If you were a teardrop;In my eye,&#xA;For fear of losing you,I would never cry&#xA;And if the golden sun,Should cease to shine its light,&#xA;Just one smile from you,Would make my whole world bright.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

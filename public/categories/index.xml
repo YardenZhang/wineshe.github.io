@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 墨家Mojia</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:1316/categories/</link>
     <description>Recent content in Categories on 墨家Mojia</description>
-    <image>
-      <title>墨家Mojia</title>
-      <url>https://wineshe.oss-cn-shanghai.aliyuncs.com/typecho/2025/12/18/wecenter-logo.png</url>
-      <link>https://wineshe.oss-cn-shanghai.aliyuncs.com/typecho/2025/12/18/wecenter-logo.png</link>
-    </image>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 13 Mar 2026 17:24:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日记</title>
-      <link>http://localhost:1313/categories/%E6%97%A5%E8%AE%B0/</link>
+      <link>http://localhost:1316/categories/%E6%97%A5%E8%AE%B0/</link>
       <pubDate>Fri, 13 Mar 2026 17:24:00 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E6%97%A5%E8%AE%B0/</guid>
+      <guid>http://localhost:1316/categories/%E6%97%A5%E8%AE%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>教程</title>
-      <link>http://localhost:1313/categories/%E6%95%99%E7%A8%8B/</link>
+      <link>http://localhost:1316/categories/%E6%95%99%E7%A8%8B/</link>
       <pubDate>Thu, 08 Jan 2026 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E6%95%99%E7%A8%8B/</guid>
+      <guid>http://localhost:1316/categories/%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
   </channel>

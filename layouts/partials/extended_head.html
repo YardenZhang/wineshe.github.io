@@ -1,0 +1,40 @@
+<!--
+If you want to include any custom html just before </Head>, put it in /layouts/partials/extended_head.html
+Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/extended_head.html doesn't exist.
+-->
+<style>
+/* 首页文章标题 */
+.post-item-title {
+    font-size: 24px !important;
+}
+
+/* 文章内页标题 */
+.post-title {
+    font-size: 24px !important;
+}
+
+/* 限制图片宽度 */
+img {
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+/* 表格样式 - 强制限制宽度 */
+table {
+    max-width: 100% !important;
+    width: 100% !important;
+    overflow-x: scroll !important;
+    display: table !important;
+    table-layout: fixed !important;
+    word-break: break-word !important;
+}
+
+table td, 
+table th {
+    max-width: 200px !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: normal !important;
+    word-break: break-all !important;
+}
+</style>
