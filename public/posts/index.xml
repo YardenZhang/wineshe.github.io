@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 墨家Mojia</title>
-    <link>https://mojiaorg.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on 墨家Mojia</description>
     <image>
       <title>墨家Mojia</title>
@@ -12,12 +12,12 @@
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 13 Mar 2026 17:24:00 +0800</lastBuildDate>
-    <atom:link href="https://mojiaorg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Openclaw发布测试</title>
-      <link>https://mojiaorg.github.io/posts/openclaw-fabu-ce-shi/</link>
+      <link>http://localhost:1313/posts/openclaw-fabu-ce-shi/</link>
       <pubDate>Fri, 13 Mar 2026 17:24:00 +0800</pubDate>
-      <guid>https://mojiaorg.github.io/posts/openclaw-fabu-ce-shi/</guid>
+      <guid>http://localhost:1313/posts/openclaw-fabu-ce-shi/</guid>
       <description>&lt;p&gt;本文章为测试文章，是通过openclaw发布的，如果成功，这将是我用openclaw发布的第一篇文章。&lt;/p&gt;
 &lt;p&gt;今天第一次尝试用Openclaw来写博客，感觉非常新奇。Openclaw是一个AI助手，可以通过对话的方式帮我完成各种任务，比如写文章、发邮件、管理文件等。&lt;/p&gt;
 &lt;p&gt;作为一名技术爱好者，我一直在探索如何更高效地工作。Openclaw的出现让我看到了AI在日常办公中的巨大潜力。只需要通过简单的对话，就能完成原本需要复杂操作的任务，这种体验是革命性的。&lt;/p&gt;
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>真正有阅历、有实力的人，往往从不急于“好为人师”？</title>
-      <link>https://mojiaorg.github.io/posts/%E7%9C%9F%E6%AD%A3%E6%9C%89%E9%98%85%E5%8E%86%E6%9C%89%E5%AE%9E%E5%8A%9B%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E4%BB%8E%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%A5%BD%E4%B8%BA%E4%BA%BA%E5%B8%88/</link>
+      <link>http://localhost:1313/posts/%E7%9C%9F%E6%AD%A3%E6%9C%89%E9%98%85%E5%8E%86%E6%9C%89%E5%AE%9E%E5%8A%9B%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E4%BB%8E%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%A5%BD%E4%B8%BA%E4%BA%BA%E5%B8%88/</link>
       <pubDate>Thu, 08 Jan 2026 10:00:00 +0800</pubDate>
-      <guid>https://mojiaorg.github.io/posts/%E7%9C%9F%E6%AD%A3%E6%9C%89%E9%98%85%E5%8E%86%E6%9C%89%E5%AE%9E%E5%8A%9B%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E4%BB%8E%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%A5%BD%E4%B8%BA%E4%BA%BA%E5%B8%88/</guid>
+      <guid>http://localhost:1313/posts/%E7%9C%9F%E6%AD%A3%E6%9C%89%E9%98%85%E5%8E%86%E6%9C%89%E5%AE%9E%E5%8A%9B%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E4%BB%8E%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%A5%BD%E4%B8%BA%E4%BA%BA%E5%B8%88/</guid>
       <description>&lt;p&gt;你有没有留意过，那些真正有阅历、有实力的人，往往从不急于“好为人师”？&lt;/p&gt;
 &lt;p&gt;哪怕他们一眼看穿你正走在弯路上，甚至眼睁睁看着你即将做出一个错误的决定——只要你不主动开口求助，他们多半会选择沉默，甚至若无其事地跟你聊起天气、电影，或晚饭吃什么。&lt;/p&gt;
 &lt;p&gt;这听起来是不是有些冷漠，甚至残忍？&lt;/p&gt;
@@ -89,9 +89,9 @@
     </item>
     <item>
       <title>关于“投射”，月季花、爱情、北展</title>
-      <link>https://mojiaorg.github.io/posts/%E5%85%B3%E4%BA%8E%E6%8A%95%E5%B0%84%E6%9C%88%E5%AD%A3%E8%8A%B1%E7%88%B1%E6%83%85%E5%8C%97%E5%B1%95/</link>
+      <link>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E6%8A%95%E5%B0%84%E6%9C%88%E5%AD%A3%E8%8A%B1%E7%88%B1%E6%83%85%E5%8C%97%E5%B1%95/</link>
       <pubDate>Wed, 31 Dec 2025 22:00:00 +0800</pubDate>
-      <guid>https://mojiaorg.github.io/posts/%E5%85%B3%E4%BA%8E%E6%8A%95%E5%B0%84%E6%9C%88%E5%AD%A3%E8%8A%B1%E7%88%B1%E6%83%85%E5%8C%97%E5%B1%95/</guid>
+      <guid>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E6%8A%95%E5%B0%84%E6%9C%88%E5%AD%A3%E8%8A%B1%E7%88%B1%E6%83%85%E5%8C%97%E5%B1%95/</guid>
       <description>&lt;p&gt;月季花&lt;/p&gt;
 &lt;p&gt;你在北京吗？你每天上班的路上会路过长长的栏杆间开满月季花吗？娇嫩的黄月季，花骨朵的、半开的、开得正艳的、开满了的；间或还有空灵米白色的；也有艳丽的大紫色；边上的两株已经成了黄月季与紫月季的杂交，像扎染艺术晕的。有时忍不住停下来贴近看其中一朵，像看婴儿，像看小狗，一种欢喜的、宁静的、飘在云朵上的感觉，胖嘟嘟扇着小翅膀的天使，柔柔的光亮。&lt;/p&gt;
 &lt;p&gt;就这么写着，看花朵时的笑已经绽放在脸上了。最近看到一个心理学名词叫“投射”，我想我看到这些花朵时，有部分投射发生了：我觉得这些花儿让我的心情很好，其实我也将喜欢花的体验、将每次看到花的欢喜、将心理过程“投射”出去，然后反过来我又接收了这个投射。好的循环就产生了。&lt;/p&gt;
@@ -108,11 +108,11 @@
     </item>
     <item>
       <title>我的第一篇博客</title>
-      <link>https://mojiaorg.github.io/posts/%E6%88%91%E7%9A%84%E6%96%B0%E6%96%87%E7%AB%A0/</link>
+      <link>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E6%96%B0%E6%96%87%E7%AB%A0/</link>
       <pubDate>Wed, 31 Dec 2025 10:00:00 +0800</pubDate>
-      <guid>https://mojiaorg.github.io/posts/%E6%88%91%E7%9A%84%E6%96%B0%E6%96%87%E7%AB%A0/</guid>
+      <guid>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E6%96%B0%E6%96%87%E7%AB%A0/</guid>
       <description>&lt;p&gt;这是我自己发布的第一篇文章，Hugo真的好难用，文章很难发布成功，
-&lt;img alt=&#34;我的照片&#34; loading=&#34;lazy&#34; src=&#34;https://mojiaorg.github.io/images/sunset.jpg&#34;&gt;
+&lt;img alt=&#34;我的照片&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/sunset.jpg&#34;&gt;
 If you were a teardrop;In my eye,
 For fear of losing you,I would never cry
 And if the golden sun,Should cease to shine its light,

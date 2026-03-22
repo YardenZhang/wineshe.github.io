@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>情感 on 墨家Mojia</title>
-    <link>https://mojiaorg.github.io/tags/%E6%83%85%E6%84%9F/</link>
+    <link>http://localhost:1313/tags/%E6%83%85%E6%84%9F/</link>
     <description>Recent content in 情感 on 墨家Mojia</description>
     <image>
       <title>墨家Mojia</title>
@@ -12,12 +12,12 @@
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 31 Dec 2025 22:00:00 +0800</lastBuildDate>
-    <atom:link href="https://mojiaorg.github.io/tags/%E6%83%85%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%83%85%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于“投射”，月季花、爱情、北展</title>
-      <link>https://mojiaorg.github.io/posts/%E5%85%B3%E4%BA%8E%E6%8A%95%E5%B0%84%E6%9C%88%E5%AD%A3%E8%8A%B1%E7%88%B1%E6%83%85%E5%8C%97%E5%B1%95/</link>
+      <link>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E6%8A%95%E5%B0%84%E6%9C%88%E5%AD%A3%E8%8A%B1%E7%88%B1%E6%83%85%E5%8C%97%E5%B1%95/</link>
       <pubDate>Wed, 31 Dec 2025 22:00:00 +0800</pubDate>
-      <guid>https://mojiaorg.github.io/posts/%E5%85%B3%E4%BA%8E%E6%8A%95%E5%B0%84%E6%9C%88%E5%AD%A3%E8%8A%B1%E7%88%B1%E6%83%85%E5%8C%97%E5%B1%95/</guid>
+      <guid>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E6%8A%95%E5%B0%84%E6%9C%88%E5%AD%A3%E8%8A%B1%E7%88%B1%E6%83%85%E5%8C%97%E5%B1%95/</guid>
       <description>&lt;p&gt;月季花&lt;/p&gt;
 &lt;p&gt;你在北京吗？你每天上班的路上会路过长长的栏杆间开满月季花吗？娇嫩的黄月季，花骨朵的、半开的、开得正艳的、开满了的；间或还有空灵米白色的；也有艳丽的大紫色；边上的两株已经成了黄月季与紫月季的杂交，像扎染艺术晕的。有时忍不住停下来贴近看其中一朵，像看婴儿，像看小狗，一种欢喜的、宁静的、飘在云朵上的感觉，胖嘟嘟扇着小翅膀的天使，柔柔的光亮。&lt;/p&gt;
 &lt;p&gt;就这么写着，看花朵时的笑已经绽放在脸上了。最近看到一个心理学名词叫“投射”，我想我看到这些花朵时，有部分投射发生了：我觉得这些花儿让我的心情很好，其实我也将喜欢花的体验、将每次看到花的欢喜、将心理过程“投射”出去，然后反过来我又接收了这个投射。好的循环就产生了。&lt;/p&gt;

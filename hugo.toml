@@ -1,4 +1,4 @@
-baseURL = "https://mojiaorg.github.io/"
+baseURL = "https://www.mojia.org/"
 languageCode = "zh-CN"
 title = "墨家Mojia"
 theme = "PaperMod"
