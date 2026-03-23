@@ -47,4 +47,29 @@ pre {
     white-space: pre !important;
     word-wrap: normal !important;
 }
+
+/* 限制文章内容整体宽度 */
+.post-body,
+.article-content,
+.article-body,
+.entry-content,
+main {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+/* 限制所有块级元素的宽度 */
+.post-body > *,
+.article-content > *,
+.entry-content > * {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+}
+
+/* 限制代码块和pre内联样式 */
+.post-body pre code,
+pre {
+    max-width: 100% !important;
+    overflow-x: auto !important;
+}
 </style>
