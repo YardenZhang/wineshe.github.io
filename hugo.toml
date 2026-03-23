@@ -12,10 +12,18 @@ disableDarkmode = false
 [markup]
   [markup.highlight]
     noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+[permalinks]
+  posts = "/posts/:title/"
+  categories = "/categories/:slug/"
+  tags = "/tags/:slug/"
 
 [[menu.main]]
   url = "/categories"
@@ -31,3 +39,8 @@ disableDarkmode = false
   url = "/posts"
   name = "Archive"
   weight = 1
+
+[[menu.main]]
+  url = "/about"
+  name = "About"
+  weight = 4
