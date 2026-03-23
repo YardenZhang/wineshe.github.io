@@ -1,0 +1,73 @@
+
+{{- $.Scratch.Set "archive" "" -}}
+{{- if and (isset .Params "archive") .Params.archive -}}
+    {{- $.Scratch.Set "archive" .Params.archive -}}
+{{- end if -}}
+
+{{- $.Scratch.Set "sidebar" "" -}}
+{{- if and (isset .Params "sidebar") .Params.sidebar -}}
+    {{- $.Scratch.Set "sidebar" .Params.sidebar -}}
+{{- end if -}}
+
+{{ if or (eq ($.Scratch.Get "sidebar") "") (ne ($.Scratch.Get "sidebar") "false") }}
+
+<div class="sidebar-left">
+    <div class="sidebar-my-info">
+        <div class="sidebar-my-info-avatar">
+            <img src="{{ "images/avatar.jpg" | absURL }}" alt="avatar">
+        </div>
+        <div class="sidebar-my-info-name">
+            {{ .Site.Params.name }}
+        </div>
+        <div class="sidebar-my-info-description">
+            {{ .Site.Params.description }}
+        </div>
+    </div>
+    {{ partial "extrabar.html" . }}
+</div>
+
+<div class="sidebar-right">
+    <div class="post-list-container">
+        {{ range .Paginator.Pages }}
+        <div class="post-list-item">
+            <div class="post-item-wrapper">
+                {{ partial "post-item-meta.html" . }}
+                <a href="{{ .Permalink }}" class="a-wrap">
+                <p class="post-title">{{ .Title }}</p>
+                <p class="post-summary">{{ .Description }}</p>
+                <p class="post-info">
+                    <time>{{ .Date.Format "2006-01-02 15:04" }}</time>
+                    <span class="separator">•</span>
+                    <span>{{ .ReadingTime }} {{ i18n "read_time" }}</span>
+                </p>
+            </a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+
+{{ else }}
+
+<div class="sidebar-none">
+    <div class="post-list-container">
+        {{ range .Paginator.Pages }}
+        <div class="post-list-item">
+            <div class="post-item-wrapper">
+                {{ partial "post-item-meta.html" . }}
+                <a href="{{ .Permalink }}" class="a-wrap">
+                <p class="post-title">{{ .Title }}</p>
+                <p class="post-summary">{{ .Description }}</p>
+                <p class="post-info">
+                    <time>{{ .Date.Format "2006-01-02 15:04" }}</time>
+                    <span class="separator">•</span>
+                    <span>{{ .ReadingTime }} {{ i18n "read_time" }}</span>
+                </p>
+            </a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+
+{{ end }}
