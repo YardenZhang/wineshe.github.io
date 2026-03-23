@@ -11,6 +11,20 @@ Do not put anything in this file - it's only here so that hugo won't throw an er
     margin-bottom: 4px !important;
 }
 
+/* 左侧导航列表从下开始 */
+.nav-link-list {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-end !important;
+    min-height: 100% !important;
+}
+
+/* 导航链接字号 */
+.nav-link-item,
+.nav-link-list a {
+    font-size: 16px !important;
+}
+
 /* 文章内页标题 */
 .post-title {
     font-size: 24px !important;
