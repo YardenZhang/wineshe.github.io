@@ -1,7 +1,7 @@
 baseURL = "https://www.mojia.org/"
 languageCode = "zh-CN"
 title = "墨家Mojia"
-theme = "hugo-diary-main"
+theme = "hugo-theme-diary-main"
 
 [params]
 subtitle = "一个人的独白"
