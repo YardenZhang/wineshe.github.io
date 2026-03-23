@@ -2,205 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:9016/about/</loc>
-    <lastmod>2025-12-31T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/</loc>
-    <lastmod>2025-12-31T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/categories/</loc>
-    <lastmod>2013-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/</loc>
-    <lastmod>2013-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/tags/</loc>
-    <lastmod>2013-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E7%99%BE%E5%B0%9D%E4%B8%9C%E5%93%A5%E9%9B%85%E5%8E%A8%E7%9B%B2%E5%93%81%E5%A4%9C%E4%B9%8B%E9%BB%91%E7%9A%AE%E8%AF%BA%E7%9A%84%E7%A2%B0%E6%92%9E/</loc>
-    <lastmod>2013-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/categories/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/</loc>
-    <lastmod>2013-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/tags/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/</loc>
-    <lastmod>2013-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/tags/%E8%91%A1%E8%90%84%E9%85%92%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2013-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E5%93%81%E9%A5%AE%E4%B9%8B%E9%81%93-%E8%91%A1%E8%90%84%E9%85%92%E8%B5%8F%E9%89%B4%E7%9F%A5%E8%AF%86100%E9%97%AE/</loc>
-    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E9%85%92%E4%B9%8B%E7%8E%8B%E8%80%85%E5%B7%B4%E7%BD%97%E6%B4%9B/</loc>
-    <lastmod>2013-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E6%BC%AB%E6%AD%A5-tuscany%E4%B9%8B%E5%9B%9Bbiondi-santi-%E7%9A%84-amore-%E5%92%8C-armonia/</loc>
-    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E8%B5%A4%E9%9C%9E%E7%8F%A0%E4%BE%9D%E6%97%A7%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/</loc>
-    <lastmod>2012-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E9%A3%8E%E6%B0%B4%E4%B8%8Eterroir-1%E5%A4%A9%E5%9C%B0%E4%BA%BA%E5%90%88%E4%B8%80/</loc>
-    <lastmod>2012-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E5%8C%97%E4%BA%AC6%E6%9C%884%E6%97%A51855saint-estephe%E5%88%97%E7%BA%A7%E5%90%8D%E5%BA%842004/2005/2006/2007%E5%B9%B4%E4%BB%BD%E5%89%AF%E7%89%8C%E5%93%81%E9%89%B4/</loc>
-    <lastmod>2011-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/tags/%E5%93%81%E9%89%B4%E4%BC%9A/</loc>
-    <lastmod>2011-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/categories/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</loc>
-    <lastmod>2011-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/tags/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</loc>
-    <lastmod>2011-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E7%BE%8E%E9%85%92%E9%A3%98%E9%A6%99%E8%97%8F%E7%A7%98%E5%AF%86/</loc>
-    <lastmod>2011-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/tags/%E5%93%81%E9%85%92%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2011-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E8%91%A1%E8%90%84%E9%85%92%E9%86%92%E9%85%92%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2011-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/categories/%E9%85%92%E5%8F%8B%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2011-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/tags/%E9%85%92%E5%8F%8B%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2011-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E5%B3%BB%E5%B0%912007%E5%B9%B4%E6%B3%A2%E5%B0%94%E5%A4%9A%E5%93%81%E5%B0%9D%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E7%AB%99/</loc>
+    <loc>https://www.mojia.org/categories/</loc>
     <lastmod>2010-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/ugc2007vintage%E4%B8%8A%E6%B5%B7%E7%AB%99%E5%93%81%E5%B0%9D%E9%80%9F%E8%AE%B0/</loc>
+    <loc>https://www.mojia.org/posts/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/tags/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/posts/%E5%B3%BB%E5%B0%912007%E5%B9%B4%E6%B3%A2%E5%B0%94%E5%A4%9A%E5%93%81%E5%B0%9D%E4%BC%9A-%E5%B9%BF%E5%B7%9E%E7%AB%99/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/categories/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/tags/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/tags/%E8%91%A1%E8%90%84%E9%85%92%E7%9F%A5%E8%AF%86/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/posts/ugc2007vintage%E4%B8%8A%E6%B5%B7%E7%AB%99%E5%93%81%E5%B0%9D%E9%80%9F%E8%AE%B0/</loc>
     <lastmod>2010-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E6%84%8F%E5%A4%A7%E5%88%A9%E8%91%A1%E8%90%84%E9%85%92%E7%89%B9%E8%89%B2%E4%BA%A7%E5%8C%BA2%E7%9A%AE%E5%B0%94%E8%92%99%E7%89%B9a/</loc>
+    <loc>https://www.mojia.org/posts/%E6%84%8F%E5%A4%A7%E5%88%A9%E8%91%A1%E8%90%84%E9%85%92%E7%89%B9%E8%89%B2%E4%BA%A7%E5%8C%BA2%E7%9A%AE%E5%B0%94%E8%92%99%E7%89%B9a/</loc>
     <lastmod>2010-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E6%8B%89%E5%9B%BE%E6%96%B0%E5%BD%93%E5%AE%B6frederic-engerer/</loc>
+    <loc>https://www.mojia.org/posts/%E6%8B%89%E5%9B%BE%E6%96%B0%E5%BD%93%E5%AE%B6frederic-engerer/</loc>
     <lastmod>2010-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E8%91%A1%E8%90%84%E9%85%92%E7%8E%8B%E5%9B%BD%E5%B7%A1%E6%B8%B8/</loc>
+    <loc>https://www.mojia.org/posts/%E8%91%A1%E8%90%84%E9%85%92%E7%8E%8B%E5%9B%BD%E5%B7%A1%E6%B8%B8/</loc>
     <lastmod>2010-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E6%B3%95%E5%9B%BD%E4%BA%94%E5%A4%A7%E5%90%8D%E5%BA%84%E4%B9%8Bchateau-lafite-rothschild/</loc>
+    <loc>https://www.mojia.org/posts/%E6%B3%95%E5%9B%BD%E4%BA%94%E5%A4%A7%E5%90%8D%E5%BA%84%E4%B9%8Bchateau-lafite-rothschild/</loc>
     <lastmod>2010-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E8%8B%8F%E9%9B%85%E5%A4%A9%E4%BA%BA%E4%B9%8B%E8%A1%A1-ch-pichon-baron/</loc>
+    <loc>https://www.mojia.org/posts/%E8%8B%8F%E9%9B%85%E5%A4%A9%E4%BA%BA%E4%B9%8B%E8%A1%A1-ch-pichon-baron/</loc>
     <lastmod>2010-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/james-hallidays-best-of-the-best-2011-wine-companion-%E7%AD%BE%E5%94%AE%E5%BD%92%E6%9D%A5%EF%BC%91/</loc>
-    <lastmod>2010-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E7%99%BE%E5%B0%9D%E6%9F%B3%E5%8D%B0%E6%B8%85%E6%98%8E%E5%85%B3%E4%BA%8E%E8%BF%9C%E8%B5%B0%E5%85%B3%E4%BA%8E%E5%88%AB%E7%A6%BB/</loc>
-    <lastmod>2010-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E7%BA%A2%E9%85%92%E4%B9%8B%E4%B9%A1%E5%80%BE%E5%9F%8E%E5%80%BE%E5%9B%BD%E5%85%AB%E5%A4%A7%E5%90%8D%E5%BA%84/</loc>
-    <lastmod>2010-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/wset-level-2-%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/</loc>
+    <loc>https://www.mojia.org/posts/wset-level-2-%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/</loc>
     <lastmod>2010-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E8%8B%8F%E9%9B%85%E8%B6%85%E4%BA%8C%E7%BA%A7%E5%BA%84chacircteau-palmer%E6%89%A7%E5%AD%90%E4%B9%8B%E6%89%8B/</loc>
+    <loc>https://www.mojia.org/posts/%E8%8B%8F%E9%9B%85%E8%B6%85%E4%BA%8C%E7%BA%A7%E5%BA%84chacircteau-palmer%E6%89%A7%E5%AD%90%E4%B9%8B%E6%89%8B/</loc>
     <lastmod>2010-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E7%9B%9B%E6%9E%81%E8%80%8C%E8%A1%B0%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%91%A1%E8%90%84%E9%85%92%E6%96%87%E5%8C%96%E6%8E%A2%E5%BE%AE/</loc>
+    <loc>https://www.mojia.org/posts/%E7%9B%9B%E6%9E%81%E8%80%8C%E8%A1%B0%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%91%A1%E8%90%84%E9%85%92%E6%96%87%E5%8C%96%E6%8E%A2%E5%BE%AE/</loc>
     <lastmod>2010-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E7%99%BE%E5%B0%9D%E8%BF%98%E6%9D%A5%E5%8F%88%E9%86%89%E5%8B%83%E8%89%AE%E5%9C%B0/</loc>
-    <lastmod>2010-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E8%91%A1%E8%90%84%E9%85%92%E5%93%81%E8%B4%A8%E7%9A%84%E5%8F%AF%E7%88%B1%E8%A7%82/</loc>
-    <lastmod>2010-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E8%A5%BF%E6%96%B9%E7%BA%A2%E9%85%92%E6%96%87%E5%8C%96%E4%B8%AD%E7%9A%84%E5%A9%9A%E4%BF%97%E4%B9%A0%E6%83%AF%E4%B8%8E%E5%9C%9F%E5%9C%B0%E6%B5%81%E8%BD%AC%E7%BB%A7%E6%89%BF%E5%88%B6%E5%BA%A6/</loc>
+    <loc>https://www.mojia.org/posts/%E8%A5%BF%E6%96%B9%E7%BA%A2%E9%85%92%E6%96%87%E5%8C%96%E4%B8%AD%E7%9A%84%E5%A9%9A%E4%BF%97%E4%B9%A0%E6%83%AF%E4%B8%8E%E5%9C%9F%E5%9C%B0%E6%B5%81%E8%BD%AC%E7%BB%A7%E6%89%BF%E5%88%B6%E5%BA%A6/</loc>
     <lastmod>2010-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E7%99%BE%E5%B0%9D%E9%87%91%E5%BA%B8%E4%B8%8E%E8%8B%8F%E8%BD%BC%E5%85%AD%E8%84%89%E7%A5%9E%E5%89%91%E5%AF%B9%E9%86%89%E4%B8%AD%E8%8D%89%E4%B9%A6/</loc>
-    <lastmod>2009-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E7%99%BE%E5%B0%9D%E4%B8%8D%E8%A6%81%E5%91%8A%E8%AF%89%E4%BB%BB%E4%BD%95%E4%BA%BA%E4%BB%BB%E4%BD%95%E4%BA%8B%E6%83%85/</loc>
-    <lastmod>2009-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E6%9C%80%E8%BF%913%E4%B8%AA%E6%9C%88%E5%96%9D%E7%9A%84%E9%85%92%E9%85%92%E8%AF%84%E6%B1%87%E6%80%BB%E8%B4%B4%E4%BB%A5burgundy%E4%B8%BA%E4%B8%BB%E4%B8%8D%E6%96%AD%E6%9B%B4%E6%96%B0ing/</loc>
+    <loc>https://www.mojia.org/posts/%E6%9C%80%E8%BF%913%E4%B8%AA%E6%9C%88%E5%96%9D%E7%9A%84%E9%85%92%E9%85%92%E8%AF%84%E6%B1%87%E6%80%BB%E8%B4%B4%E4%BB%A5burgundy%E4%B8%BA%E4%B8%BB%E4%B8%8D%E6%96%AD%E6%9B%B4%E6%96%B0ing/</loc>
     <lastmod>2009-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E6%9F%A5%E8%80%81%E6%9D%BF-%E6%80%95%E4%BD%A0%E5%82%BB/</loc>
-    <lastmod>2009-10-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E6%9C%A8%E5%88%B6%E9%85%92%E6%A1%B6/</loc>
-    <lastmod>2009-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/tags/%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81/</loc>
-    <lastmod>2009-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/categories/%E9%85%92%E7%95%8C%E8%B5%84%E8%AE%AF/</loc>
-    <lastmod>2009-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/tags/%E9%85%92%E7%95%8C%E8%B5%84%E8%AE%AF/</loc>
-    <lastmod>2009-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E8%BD%AC%E8%B4%B4%E8%92%99%E7%94%B0%E8%AE%BA%E9%A5%AE%E9%85%92/</loc>
-    <lastmod>2009-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E6%AD%A6%E5%BD%93%E8%80%81%E6%9F%B4-1978%E5%B9%B4-chateau-mouton-rothschild/</loc>
-    <lastmod>2009-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E6%80%BB%E6%98%AF%E6%9C%89%E4%BB%A5%E5%90%8Ede/</loc>
-    <lastmod>2009-05-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E6%84%8F%E5%9B%BD%E9%85%92%E6%99%9A%E5%AE%B42009%E5%B9%B4%E9%A6%96%E7%AB%99%E6%8E%A8%E5%B9%BF%E4%B8%9C%E8%8E%9E%E9%86%89%E5%BF%83%E7%BA%A2%E7%A7%81%E6%88%BF%E8%8F%9C%E9%9A%BE%E5%BF%98%E4%B9%8B%E5%A4%9C/</loc>
-    <lastmod>2009-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E8%B7%A8%E8%B6%8A%E6%AD%A6%E5%BD%93%E4%B8%83%E5%8D%81%E4%B9%9D%E5%B9%B4/</loc>
-    <lastmod>2008-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/11%E6%9C%8818%E6%97%A5%E9%85%92%E8%81%9A-%E7%82%B9%E6%BB%B4%E5%9C%A8%E5%BF%83%E5%A4%B4/</loc>
-    <lastmod>2008-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E8%91%A1%E8%90%84%E9%85%92%E8%8B%B1%E8%AF%AD/</loc>
+    <loc>https://www.mojia.org/posts/%E8%91%A1%E8%90%84%E9%85%92%E8%8B%B1%E8%AF%AD/</loc>
     <lastmod>2008-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E6%84%8F%E5%A4%A7%E5%88%A9%E4%B9%8B%E5%A4%9C/</loc>
-    <lastmod>2008-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E6%84%8F%E5%A4%A7%E5%88%A9%E8%91%A1%E8%90%84%E9%85%92/</loc>
-    <lastmod>2008-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E8%91%A1%E8%90%84%E9%85%92%E7%9A%84%E5%90%84%E7%A7%8D%E5%91%B3%E9%81%93%E4%BB%A5%E5%8F%8A%E4%BB%A3%E8%A1%A8%E9%85%92%E5%BA%84/</loc>
+    <loc>https://www.mojia.org/posts/%E8%91%A1%E8%90%84%E9%85%92%E7%9A%84%E5%90%84%E7%A7%8D%E5%91%B3%E9%81%93%E4%BB%A5%E5%8F%8A%E4%BB%A3%E8%A1%A8%E9%85%92%E5%BA%84/</loc>
     <lastmod>2007-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E8%BF%9B%E5%8F%A3%E8%91%A1%E8%90%84%E9%85%92%E8%A6%81%E6%B3%A8%E6%84%8F/</loc>
-    <lastmod>2007-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E8%91%A1%E8%90%84%E9%85%92%E7%9F%A5%E8%AF%86%E6%99%AE%E5%8F%8A--%E5%85%B3%E4%BA%8E%E7%99%BD%E8%8B%8F%E7%BB%B4%E7%BF%81sauvignonblanc/</loc>
-    <lastmod>2007-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E9%86%89%E5%80%92%E5%9C%A8%E5%A5%B9%E7%9A%84%E7%9F%B3%E6%A6%B4%E8%A3%99%E4%B8%8B/</loc>
-    <lastmod>2006-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E6%9C%89%E4%B8%AAhobby%E7%9C%9F%E5%A5%BD/</loc>
-    <lastmod>2006-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E6%9C%80%E8%BF%91%E7%9A%84%E5%BF%83%E6%83%85%E5%BE%88%E9%A6%99%E6%A7%9F/</loc>
-    <lastmod>2006-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E8%91%A1%E8%90%84%E9%85%92%E7%9F%A5%E8%AF%864/</loc>
-    <lastmod>2006-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E6%B7%B1%E5%9C%B3%E6%9C%89%E5%80%8B%E9%99%BD%E5%85%89%E4%BF%B1%E6%A8%82%E9%83%A8/</loc>
-    <lastmod>2006-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:9016/posts/%E7%BE%8E%E5%BA%A6%E6%9C%80%E6%96%B0%E4%B8%AD%E7%BA%A7%E9%85%92%E5%BA%84%E5%88%86%E7%BA%A73-crus-bourgeois/</loc>
+    <loc>https://www.mojia.org/tags/%E5%93%81%E9%89%B4%E4%BC%9A/</loc>
     <lastmod>2006-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/%E6%AF%8F%E5%91%A8%E4%B8%80%E6%AD%8C/</loc>
-    <lastmod>2006-03-05T00:00:00+00:00</lastmod>
+    <loc>https://www.mojia.org/posts/%E7%BE%8E%E5%BA%A6%E6%9C%80%E6%96%B0%E4%B8%AD%E7%BA%A7%E9%85%92%E5%BA%84%E5%88%86%E7%BA%A73-crus-bourgeois/</loc>
+    <lastmod>2006-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:9016/posts/cotes-du-rhone-%E5%8E%86%E5%8F%B2%E4%B8%8E%E8%91%A1%E8%90%84%E5%93%81%E7%A7%8D/</loc>
+    <loc>https://www.mojia.org/categories/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</loc>
+    <lastmod>2006-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/tags/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</loc>
+    <lastmod>2006-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/posts/cotes-du-rhone-%E5%8E%86%E5%8F%B2%E4%B8%8E%E8%91%A1%E8%90%84%E5%93%81%E7%A7%8D/</loc>
     <lastmod>2005-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.mojia.org/about/</loc>
+    <lastmod>1988-05-17T00:00:00+08:00</lastmod>
   </url>
 </urlset>
