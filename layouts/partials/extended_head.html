@@ -3,6 +3,59 @@ If you want to include any custom html just before </Head>, put it in /layouts/p
 Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/extended_head.html doesn't exist.
 -->
 <style>
+/* 墨家文字加粗 */
+.nav-title {
+    font-weight: bold !important;
+    font-size: 37px !important;
+}
+
+.single-column-header-title,
+.navbar-brand {
+    font-weight: bold !important;
+}
+
+/* 左侧导航栏下对齐 */
+.nav-link-list {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-end !important;
+    min-height: 200px !important;
+}
+
+/* 导航链接样式 */
+.side-container .nav-link-list .nav-link-item {
+    padding: 0px 28px 0px 30px !important;
+}
+
+/* Logo 图片样式 */
+.logo-img {
+    height: 30px !important;
+    width: auto !important;
+    max-width: none !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+.logo-header-img {
+    height: 50px !important;
+    width: auto !important;
+    max-width: none !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+.logo-sidebar {
+    height: 99px !important;
+    width: auto !important;
+    max-width: none !important;
+    display: block !important;
+    margin-left: auto !important;
+}
+
+.nav-subtitle {
+    font-size: 16px !important;
+}
+
 /* 首页文章标题 */
 .post-item-title {
     font-size: 22px !important;
@@ -11,7 +64,7 @@ Do not put anything in this file - it's only here so that hugo won't throw an er
     margin-bottom: 4px !important;
 }
 
-/* 导航链接字号 */
+/* 导航链接样式 */
 .nav-link-item,
 .nav-link-list a {
     font-size: 16px !important;

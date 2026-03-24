@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 <title>Tags</title>
 
 
@@ -61,6 +61,59 @@
 
 
 <style>
+ 
+.nav-title {
+    font-weight: bold !important;
+    font-size: 37px !important;
+}
+
+.single-column-header-title,
+.navbar-brand {
+    font-weight: bold !important;
+}
+
+ 
+.nav-link-list {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-end !important;
+    min-height: 200px !important;
+}
+
+ 
+.side-container .nav-link-list .nav-link-item {
+    padding: 0px 28px 0px 30px !important;
+}
+
+ 
+.logo-img {
+    height: 30px !important;
+    width: auto !important;
+    max-width: none !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+.logo-header-img {
+    height: 50px !important;
+    width: auto !important;
+    max-width: none !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+.logo-sidebar {
+    height: 99px !important;
+    width: auto !important;
+    max-width: none !important;
+    display: block !important;
+    margin-left: auto !important;
+}
+
+.nav-subtitle {
+    font-size: 16px !important;
+}
+
  
 .post-item-title {
     font-size: 22px !important;
@@ -216,8 +269,8 @@ body, .post-body, .article-content, .entry-content, main {
                 menu
             </i>
         </button>
-        <a id="navTitle" class="navbar-brand" href="https://www.mojia.org/">
-            墨家Mojia
+        <a id="navTitle" class="navbar-brand" href="http://localhost:1313/">
+            墨家
         </a>
         
         <button type="button" class="nav-darkmode-toggle" id="darkModeToggleButton2">
@@ -230,8 +283,8 @@ body, .post-body, .article-content, .entry-content, main {
 </nav>
 <div class="single-column-header-container" id="pageHead"
      v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
-    <a href="https://www.mojia.org/">
-        <div class="single-column-header-title">墨家Mojia</div>
+    <a href="http://localhost:1313/">
+        <div class="single-column-header-title">墨家</div>
         
         <div class="single-column-header-subtitle">一个人的独白</div>
         
@@ -292,10 +345,10 @@ body, .post-body, .article-content, .entry-content, main {
                     </div>
             </div><div id="sideContainer" class="side-container">
     
-    <a class="a-block nav-head false" href="https://www.mojia.org/">
+    <a class="a-block nav-head false" href="http://localhost:1313/">
     
         <div class="nav-title">
-            墨家Mojia
+            墨家
         </div>
         
         <div class="nav-subtitle">
