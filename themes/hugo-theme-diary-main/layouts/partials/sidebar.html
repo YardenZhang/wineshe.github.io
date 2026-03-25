@@ -4,7 +4,9 @@
     {{ else }}
     <a class="a-block nav-head false" href="{{ "" | absLangURL }}">
     {{ end }}
-        <img class="logo-sidebar" src="/logo.png" alt="墨家">
+        <div class="nav-title">
+            墨家
+        </div>
         {{ with .Site.Params.subtitle }}
         <div class="nav-subtitle">
             {{.}}

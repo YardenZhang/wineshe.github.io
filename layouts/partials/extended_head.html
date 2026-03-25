@@ -3,15 +3,13 @@ If you want to include any custom html just before </Head>, put it in /layouts/p
 Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/extended_head.html doesn't exist.
 -->
 <style>
-/* Logo 图片样式调整 */
+/* 墨家文字加粗 */
 .nav-title {
-    display: none !important;
+    font-weight: bold !important;
+    font-size: 37px !important;
 }
 
-.single-column-header-title {
-    display: none !important;
-}
-
+.single-column-header-title,
 .navbar-brand {
     font-weight: bold !important;
 }
