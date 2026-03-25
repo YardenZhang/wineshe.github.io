@@ -10,9 +10,8 @@ email = "mojia@mojia.org"
 [params]
 subtitle = "一个人的独白"
 description = "一个人的独白"
-enableGiscus = false
+enableGiscus = true
 disableDarkmode = false
-walineServer = "https://waline-wheat-eta.vercel.app"
 
 [markup]
   [markup.highlight]
