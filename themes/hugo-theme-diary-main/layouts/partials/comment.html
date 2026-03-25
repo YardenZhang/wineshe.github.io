@@ -1,71 +1,59 @@
 {{ if .Site.Params.walineServer }}
-<!-- Waline 评论容器 -->
 <div id="waline" class="waline-container"></div>
 
-<!-- 引入 Waline 样式 (使用国内加速 CDN: BootCDN) -->
 <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/waline.css" />
 
-<!-- 引入 Waline 脚本 (使用 ES Module) -->
 <script type="module">
     import { init } from 'https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/waline.js';
 
     init({
         el: '#waline',
-        // 核心配置：服务端地址
         serverURL: '{{ .Site.Params.walineServer }}',
-        
-        // 语言设置：自动跟随 Hugo 站点语言
         lang: '{{ .Site.LanguageCode | default "zh-CN" }}',
-        
-        // 功能增强
-        pageview: true,              // 开启文章阅读量统计
-        comment: true,               // 开启评论功能
-        
-        // 必填项设置 (nick: 昵称, mail: 邮箱, link: 网站)
-        requiredMeta: ['nick', 'mail'], 
-        
-        // 表情包配置 (可以使用官方默认或自定义)
+        pageview: true,
+        comment: true,
+        requiredMeta: ['nick', 'mail'],
         emoji: [
             'https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/emojis/weibo',
             'https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/emojis/bilibili'
         ],
-        
-        // 搜索功能 (如果后端开启了搜索)
-        search: false, 
-
-        // 自定义主题色 (可选，优先使用 CSS 变量覆盖)
-        // themeColor: '#27ae60', 
-
-        // 暗色模式适配 (自动检测)
-        dark: 'html[data-theme="dark"]', // 如果你的主题有 data-theme="dark" 属性
-        
-        // 页面元数据 (通常自动获取，但显式指定更稳妥)
-        path: window.location.pathname, 
+        search: false,
+        dark: 'html[data-theme="dark"]',
+        path: window.location.pathname,
         title: document.title,
     });
 </script>
 
-<!-- 自定义样式覆盖 (内联方式，方便调试，也可移至外部 CSS 文件) -->
 <style>
     .waline-container {
-        max-width: 100%; /* 适应主题宽度 */
-        margin-top: 2rem;
+        max-width: 100%;
+        margin-top: 3rem;
         padding: 0 10px;
+        box-sizing: border-box;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     }
-    
-    /* 针对移动端的优化 */
+
+    .waline-comment-content {
+        color: #333 !important;
+        font-size: 15px !important;
+        line-height: 1.6 !important;
+        word-break: break-word !important;
+    }
+
+    [data-theme="dark"] .waline-comment-content {
+        color: #e0e0e0 !important;
+    }
+
+    .waline-comment-body {
+        display: block !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+    }
+
     @media (max-width: 768px) {
         .waline-container {
             padding: 0 5px;
         }
     }
-    
-    /* 如果你需要强制修改主题色，可以在这里覆盖 CSS 变量 */
-    /* 
-    #waline {
-        --waline-theme-color: #27ae60; 
-        --waline-active-color: #2ecc71;
-    } 
-    */
 </style>
 {{ end }}

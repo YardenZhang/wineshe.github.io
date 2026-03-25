@@ -796,70 +796,64 @@ body, .post-body, .article-content, .entry-content, main {
             </nav>
             <div class="post-comment-wrapper">
                 
-
 <div id="waline" class="waline-container"></div>
 
-
 <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/waline.css" />
-
 
 <script type="module">
     import { init } from 'https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/waline.js';
 
     init({
         el: '#waline',
-        
         serverURL: 'https:\/\/com.mojia.org',
-        
-        
         lang: 'zh-CN',
-        
-        
-        pageview: true,              
-        comment: true,               
-        
-        
-        requiredMeta: ['nick', 'mail'], 
-        
-        
+        pageview: true,
+        comment: true,
+        requiredMeta: ['nick', 'mail'],
         emoji: [
             'https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/emojis/weibo',
             'https://cdn.bootcdn.net/ajax/libs/waline/3.0.0/emojis/bilibili'
         ],
-        
-        
-        search: false, 
-
-        
-        
-
-        
-        dark: 'html[data-theme="dark"]', 
-        
-        
-        path: window.location.pathname, 
+        search: false,
+        dark: 'html[data-theme="dark"]',
+        path: window.location.pathname,
         title: document.title,
     });
 </script>
 
-
 <style>
     .waline-container {
-        max-width: 100%;  
-        margin-top: 2rem;
+        max-width: 100%;
+        margin-top: 3rem;
         padding: 0 10px;
+        box-sizing: border-box;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     }
-    
-     
+
+    .waline-comment-content {
+        color: #333 !important;
+        font-size: 15px !important;
+        line-height: 1.6 !important;
+        word-break: break-word !important;
+    }
+
+    [data-theme="dark"] .waline-comment-content {
+        color: #e0e0e0 !important;
+    }
+
+    .waline-comment-body {
+        display: block !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+    }
+
     @media (max-width: 768px) {
         .waline-container {
             padding: 0 5px;
         }
     }
-    
-     
-     
 </style>
+
 
             </div>
         </div>
