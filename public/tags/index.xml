@@ -6,8 +6,29 @@
     <description>Recent content in Tags on 墨家Mojia</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 11:02:00 +0800</lastBuildDate>
     <atom:link href="https://www.mojia.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://www.mojia.org/tags/hugo/</link>
+      <pubDate>Wed, 25 Mar 2026 11:02:00 +0800</pubDate>
+      <guid>https://www.mojia.org/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Typecho</title>
+      <link>https://www.mojia.org/tags/typecho/</link>
+      <pubDate>Wed, 25 Mar 2026 11:02:00 +0800</pubDate>
+      <guid>https://www.mojia.org/tags/typecho/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>静态博客</title>
+      <link>https://www.mojia.org/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 25 Mar 2026 11:02:00 +0800</pubDate>
+      <guid>https://www.mojia.org/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+    </item>
     <item>
       <title>知识积累</title>
       <link>https://www.mojia.org/tags/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/</link>
@@ -23,10 +44,31 @@
       <description></description>
     </item>
     <item>
+      <title>Crus Bourgeois</title>
+      <link>https://www.mojia.org/tags/crus-bourgeois/</link>
+      <pubDate>Fri, 10 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.mojia.org/tags/crus-bourgeois/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>中级庄</title>
+      <link>https://www.mojia.org/tags/%E4%B8%AD%E7%BA%A7%E5%BA%84/</link>
+      <pubDate>Fri, 10 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.mojia.org/tags/%E4%B8%AD%E7%BA%A7%E5%BA%84/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>品鉴会</title>
       <link>https://www.mojia.org/tags/%E5%93%81%E9%89%B4%E4%BC%9A/</link>
       <pubDate>Fri, 10 Mar 2006 00:00:00 +0000</pubDate>
       <guid>https://www.mojia.org/tags/%E5%93%81%E9%89%B4%E4%BC%9A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>波尔多</title>
+      <link>https://www.mojia.org/tags/%E6%B3%A2%E5%B0%94%E5%A4%9A/</link>
+      <pubDate>Fri, 10 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.mojia.org/tags/%E6%B3%A2%E5%B0%94%E5%A4%9A/</guid>
       <description></description>
     </item>
     <item>

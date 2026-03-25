@@ -10,54 +10,56 @@ tags = ["知识积累", "葡萄酒知识"]
 
 Graves与Pessac-L&eacute;ognan依然在大厅进门的右手边，自然而然成了第一站。
 
-Chateau Bouscaut(Pessac-L&eacute;ognan)
+<!--more-->
+
+Chateau Bouscaut(Pessac-Leognan)
  白：高酸度，Lurton家族的巾帼之作。★★★
  红：不错的香气。★★★☆
 
-Chateau Carbonnieux(Pessac-L&eacute;ognan) 
+Chateau Carbonnieux(Pessac-Leognan) 
  白：淡金黄色，青苹果、青草。★★★★
  红：香甜，圆润细腻的酒体。★★★☆
 
-Domaine de Chevalier(Pessac-L&eacute;ognan) 
+Domaine de Chevalier(Pessac-Leognan) 
  白：新鲜柑桔，清新的入口，但没有闻到他家典型的烟熏，总体一般。★★★☆
  红：有力度，平衡。★★★★
 
-Chateau De Fieuzal(Pessac-L&eacute;ognan)
+Chateau De Fieuzal(Pessac-Leognan)
  白：简单。★★☆
  红：适中的酒体，流畅而平衡，比白的好，意料之外。★★★★
 
-Chateau Haut-Bailly(Pessac-L&eacute;ognan)：入口集中，强势的单宁。★★★★
+Chateau Haut-Bailly(Pessac-Leognan)：入口集中，强势的单宁。★★★★
 
-Chateau La Louvi&eacute;re(Pessac-L&eacute;ognan)
+Chateau La Louvi&eacute;re(Pessac-Leognan)
  白：柑桔，清新纤细，大人家Andr&eacute; Lurton亲自操刀的酒庄。★★★☆
  红：还好。★★★
 
-Chateau Larrivet-Haut-Brion(Pessac-L&eacute;ognan) 
+Chateau Larrivet-Haut-Brion(Pessac-Leognan) 
  白：烟熏，果香，复杂的层次感。★★★★☆
  红：很好的香气，充沛的单宁，平衡的酒体。★★★★☆
 
-Chateau Latour-Martillac(Pessac-L&eacute;ognan) 
+Chateau Latour-Martillac(Pessac-Leognan) 
  白：一定的复杂度。★★★★
  红：一点点硫化物，晃杯后，再入口OK！★★★☆
 
-Chateau Malartic-Lagravi&eacute;re(Pessac-L&eacute;ognan) 
+Chateau Malartic-Lagravi&eacute;re(Pessac-Leognan) 
  白：★★★
 
-Chateau Olivier(Pessac-L&eacute;ognan) 
+Chateau Olivier(Pessac-Leognan) 
  白：柑桔与热带水果。★★★★
  红：也不错，单宁有力。★★★☆
 
-Chateau Pape Cl&eacute;ment(Pessac-L&eacute;ognan)，当年Parker试饮打了100分的白酒如何哦~~
+Chateau Pape Cl&eacute;ment(Pessac-Leognan)，当年Parker试饮打了100分的白酒如何哦~~
  白：桔类、百里香、白花及烟熏交杂的香气，入口感觉有良好的酸度，平衡。结束得悠长而香气复杂。★★★★★
  红：强壮的单宁。★★★★
 
 后来，遇见姗姗来迟的海牙，告诉他当年他买进的两箱100分期酒在此，他一时还没反应。估计太百忙之中了，呵呵。不过，人家展台的销售经理冤枉地同他讲，当年的价格太便宜了！好了，有人现在可以坐地起价了。。。
 
-Chateau Smith Haut Lafitte(Pessac-L&eacute;ognan) 
+Chateau Smith Haut Lafitte(Pessac-Leognan) 
  白：清新，淡雅的酒体，结尾带点苦味。★★★☆
  红：也有些硫味，散去后，入口单宁、平衡还是不错的。★★★☆
 
-Graves自从上世纪1987年后失去了Pessac-L&eacute;ognan，而且关键在于一家列级庄都没给剩下，今天的Graves总显得形影孤单似的，旦夕祸福，酒生几何啊。
+Graves自从上世纪1987年后失去了Pessac-Leognan，而且关键在于一家列级庄都没给剩下，今天的Graves总显得形影孤单似的，旦夕祸福，酒生几何啊。
 
 Chateau de Chantegrive(Graves) 白：稍带苦味。★★★
 
@@ -173,7 +175,7 @@ Chateau Batailey (Pauillac)：还行啊，★★★☆
 
 Chateau Clerc-Milon (Pauillac)双人舞者：表现好不少。★★★★
 
-Chateau D&rsquo;Armailhac (Pauillac) )单人舞者：入口明显比上者淡。★★★
+Chateau DArmailhac (Pauillac) )单人舞者：入口明显比上者淡。★★★
 
 Chateau Grand-Puy Ducasse (Pauillac)：甜美，★★★☆
 
