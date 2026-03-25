@@ -272,39 +272,90 @@ body, .post-body, .article-content, .entry-content, main {
 }
 
  
-#waline .vcards .vcard {
-    padding: 15px 0 !important;
+#waline {
+    font-family: "Droid Serif", Georgia, serif !important;
 }
 
-#waline .vcards .vcard .vavatar img,
+#waline * {
+    box-sizing: border-box !important;
+}
+
+#waline .vcards {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#waline .vcards .vcard {
+    display: flex !important;
+    padding: 20px 0 !important;
+    border-bottom: 1px solid #eee !important;
+}
+
 #waline .vcards .vcard .vavatar {
     width: 40px !important;
     height: 40px !important;
-    max-width: 40px !important;
-    max-height: 40px !important;
+    min-width: 40px !important;
     border-radius: 50% !important;
-    object-fit: cover !important;
+    margin-right: 15px !important;
+    overflow: hidden !important;
 }
 
-#waline .vcards .vcard .vcontent {
-    padding-top: 5px !important;
+#waline .vcards .vcard .vavatar img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+}
+
+#waline .vcards .vcard .vmain {
+    flex: 1 !important;
+    min-width: 0 !important;
 }
 
 #waline .vcards .vcard .vheader {
-    margin-bottom: 5px !important;
+    display: flex !important;
+    align-items: center !important;
+    margin-bottom: 8px !important;
 }
 
 #waline .vcards .vcard .vnick {
     font-size: 14px !important;
-    font-weight: normal !important;
+    font-weight: bold !important;
+    margin-right: 10px !important;
 }
 
-#waline .vcards .vcard img {
-    width: 40px !important;
-    height: 40px !important;
-    max-width: 40px !important;
-    max-height: 40px !important;
-    border-radius: 50% !important;
+#waline .vcards .vcard .vdate {
+    font-size: 12px !important;
+    color: #999 !important;
+}
+
+#waline .vcards .vcard .vcontent {
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+    color: #333 !important;
+}
+
+#waline .vlado {
+    margin-top: 20px !important;
+}
+
+#waline .vinput {
+    width: 100% !important;
+    padding: 10px !important;
+    border: 1px solid #ddd !important;
+    border-radius: 4px !important;
+}
+
+#waline .vbtn {
+    padding: 8px 20px !important;
+    background: #333 !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
 }
 </style>
 
