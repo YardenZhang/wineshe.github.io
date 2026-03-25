@@ -88,6 +88,55 @@
 }
 
  
+.nav-title {
+    display: none !important;
+}
+
+.single-column-header-title {
+    display: none !important;
+}
+
+.navbar-brand {
+    font-weight: bold !important;
+}
+
+ 
+.nav-link-list {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-end !important;
+    min-height: 200px !important;
+}
+
+ 
+.side-container .nav-link-list .nav-link-item {
+    padding: 0px 28px 0px 30px !important;
+}
+
+ 
+.logo-light {
+    display: block !important;
+}
+
+ 
+.logo-sidebar.logo-dark,
+.logo-img.logo-dark,
+.logo-header-img.logo-dark {
+    display: none !important;
+}
+
+ 
+body.night .logo-light {
+    display: none !important;
+}
+
+body.night .logo-sidebar.logo-dark,
+body.night .logo-img.logo-dark,
+body.night .logo-header-img.logo-dark {
+    display: block !important;
+}
+
+ 
 .logo-img {
     height: 30px !important;
     width: auto !important;
@@ -105,7 +154,7 @@
 }
 
 .logo-sidebar {
-    height: 99px !important;
+    height: 75px !important;
     width: auto !important;
     max-width: none !important;
     display: block !important;
@@ -277,7 +326,8 @@ body, .post-body, .article-content, .entry-content, main {
             </i>
         </button>
         <a id="navTitle" class="navbar-brand" href="https://www.mojia.org/">
-            <img class="logo-img" src="/logo.png" alt="墨家">
+            <img class="logo-img logo-light" src="/logo.png" alt="墨家">
+            <img class="logo-img logo-dark" src="/logo-white.png" alt="墨家">
         </a>
         
         <button type="button" class="nav-darkmode-toggle" id="darkModeToggleButton2">
@@ -291,7 +341,8 @@ body, .post-body, .article-content, .entry-content, main {
 <div class="single-column-header-container" id="pageHead"
      v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
     <a href="https://www.mojia.org/">
-        <img class="logo-header-img" src="/logo.png" alt="墨家">
+        <img class="logo-header-img logo-light" src="/logo.png" alt="墨家">
+        <img class="logo-header-img logo-dark" src="/logo-white.png" alt="墨家">
         
         <div class="single-column-header-subtitle">一个人的独白</div>
         
@@ -354,7 +405,8 @@ body, .post-body, .article-content, .entry-content, main {
     
     <a class="a-block nav-head false" href="https://www.mojia.org/">
     
-        <img class="logo-sidebar" src="/logo.png" alt="墨家">
+        <img class="logo-sidebar logo-light" src="/logo.png" alt="墨家">
+        <img class="logo-sidebar logo-dark" src="/logo-white.png" alt="墨家">
         
         <div class="nav-subtitle">
             一个人的独白

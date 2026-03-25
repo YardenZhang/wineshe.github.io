@@ -30,6 +30,55 @@ Do not put anything in this file - it's only here so that hugo won't throw an er
 }
 
 /* Logo 图片样式 */
+.nav-title {
+    display: none !important;
+}
+
+.single-column-header-title {
+    display: none !important;
+}
+
+.navbar-brand {
+    font-weight: bold !important;
+}
+
+/* 左侧导航栏下对齐 */
+.nav-link-list {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-end !important;
+    min-height: 200px !important;
+}
+
+/* 导航链接样式 */
+.side-container .nav-link-list .nav-link-item {
+    padding: 0px 28px 0px 30px !important;
+}
+
+/* Logo 正常模式显示 */
+.logo-light {
+    display: block !important;
+}
+
+/* Logo 暗色模式隐藏 */
+.logo-sidebar.logo-dark,
+.logo-img.logo-dark,
+.logo-header-img.logo-dark {
+    display: none !important;
+}
+
+/* 暗色模式下切换 logo */
+body.night .logo-light {
+    display: none !important;
+}
+
+body.night .logo-sidebar.logo-dark,
+body.night .logo-img.logo-dark,
+body.night .logo-header-img.logo-dark {
+    display: block !important;
+}
+
+/* Logo 尺寸样式 */
 .logo-img {
     height: 30px !important;
     width: auto !important;
@@ -47,7 +96,7 @@ Do not put anything in this file - it's only here so that hugo won't throw an er
 }
 
 .logo-sidebar {
-    height: 99px !important;
+    height: 75px !important;
     width: auto !important;
     max-width: none !important;
     display: block !important;

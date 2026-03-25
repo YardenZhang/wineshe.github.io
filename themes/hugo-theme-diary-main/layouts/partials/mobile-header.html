@@ -49,7 +49,8 @@
             </i>
         </button>
         <a id="navTitle" class="navbar-brand" href="{{ "" | absLangURL }}">
-            <img class="logo-img" src="/logo.png" alt="墨家">
+            <img class="logo-img logo-light" src="/logo.png" alt="墨家">
+            <img class="logo-img logo-dark" src="/logo-white.png" alt="墨家">
         </a>
         {{ if not .Site.Params.disableDarkMode }}
         <button type="button" class="nav-darkmode-toggle" id="darkModeToggleButton2">
@@ -63,7 +64,8 @@
 <div class="single-column-header-container" id="pageHead"
      v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
     <a href="{{ "" | absLangURL }}">
-        <img class="logo-header-img" src="/logo.png" alt="墨家">
+        <img class="logo-header-img logo-light" src="/logo.png" alt="墨家">
+        <img class="logo-header-img logo-dark" src="/logo-white.png" alt="墨家">
         {{ with .Site.Params.subtitle }}
         <div class="single-column-header-subtitle">{{.}}</div>
         {{ end }}
