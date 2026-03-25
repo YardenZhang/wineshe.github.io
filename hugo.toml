@@ -12,7 +12,7 @@ subtitle = "一个人的独白"
 description = "一个人的独白"
 enableGiscus = false
 disableDarkmode = false
-walineServer = "https://www.mojia.org"
+walineServer = "https://com.mojia.org"
 
 [markup]
   [markup.highlight]
