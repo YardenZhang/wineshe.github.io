@@ -68,6 +68,7 @@
 
 
 
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
 <style>
  
 .nav-title {
@@ -784,15 +785,14 @@ body, .post-body, .article-content, .entry-content, main {
 
 
 <div id="waline"></div>
-<script>
-    Waline.init({
+<script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+    init({
         el: '#waline',
-        
-        dark: "body.night",
-        serverURL: "https://waline-mojia.vercel.app" ,
+        serverURL: 'https:\/\/waline-mojia.vercel.app',
     });
-    
-    </script>
+</script>
 
 
 

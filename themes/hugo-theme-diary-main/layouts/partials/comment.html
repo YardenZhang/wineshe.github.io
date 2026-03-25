@@ -59,15 +59,14 @@ twikoo.init({
 
 {{ if .Site.Params.walineServer }}
 <div id="waline"></div>
-<script>
-    Waline.init({
+<script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+    init({
         el: '#waline',
-        //path: location.pathname,
-        dark: "body.night",
-        serverURL: {{.Site.Params.walineServer}} ,
+        serverURL: '{{ .Site.Params.walineServer }}',
     });
-    
-    </script>
+</script>
 {{ end }}
 
 {{ if .Site.Params.enableUtterances }}
