@@ -1,0 +1,51 @@
+baseURL = "https://www.mojia.org/"
+languageCode = "zh-CN"
+title = "墨家Mojia"
+theme = "hugo-theme-diary-main"
+
+[author]
+name = "墨家"
+email = "mojia@mojia.org"
+
+[params]
+subtitle = "一个人的独白"
+description = "一个人的独白"
+enableGiscus = false
+disableDarkmode = false
+walineServer = "https://com.mojia.org"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[permalinks]
+  posts = "/posts/:slug/"
+  categories = "/categories/:slug/"
+  tags = "/tags/:slug/"
+
+[[menu.main]]
+  url = "/categories"
+  name = "Categories"
+  weight = 2
+
+[[menu.main]]
+  url = "/tags"
+  name = "Tags"
+  weight = 3
+
+[[menu.main]]
+  url = "/posts"
+  name = "Archive"
+  weight = 1
+
+[[menu.main]]
+  url = "/about"
+  name = "About"
+  weight = 4
