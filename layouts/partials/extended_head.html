@@ -215,4 +215,31 @@ body, .post-body, .article-content, .entry-content, main {
 #waline {
     margin: 30px 10px !important;
 }
+
+/* 修复 Waline 头像样式 - 选择器不匹配问题 */
+.wl-card-item > .wl-user {
+    --avatar-size: var(--waline-avatar-size);
+    position: relative;
+    margin-inline-end: .75em;
+}
+@media (max-width: 720px) {
+    .wl-card-item > .wl-user {
+        --avatar-size: var(--waline-m-avatar-size);
+    }
+}
+.wl-card-item > .wl-user .wl-user-avatar {
+    width: var(--avatar-size) !important;
+    height: var(--avatar-size) !important;
+    border-radius: var(--waline-avatar-radius) !important;
+    box-shadow: var(--waline-box-shadow);
+    object-fit: cover;
+}
+.wl-card-item > .wl-user .verified-icon {
+    position: absolute;
+    top: calc(var(--avatar-size)*3/4);
+    inset-inline-start: calc(var(--avatar-size)*3/4);
+    border-radius: 50%;
+    background: var(--waline-bg-color);
+    box-shadow: var(--waline-box-shadow);
+}
 </style>
