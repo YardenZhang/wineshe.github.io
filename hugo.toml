@@ -26,7 +26,7 @@ walineServer = "https://com.mojia.org"
   category = "categories"
 
 [permalinks]
-  posts = "/posts/:title/"
+  posts = "/posts/:slug/"
   categories = "/categories/:slug/"
   tags = "/tags/:slug/"
 

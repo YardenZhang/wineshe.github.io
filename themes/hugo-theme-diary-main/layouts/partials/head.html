@@ -156,13 +156,7 @@
 <script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.16/dist/twikoo.all.min.js"></script>
 {{ end }}
 
-{{ if and (.Site.Params.walineServer) (.IsPage) }}
-<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
-  />
-{{ end }}
+
 
 <!-- head custom -->
 {{- partial "extended_head.html" . }}
