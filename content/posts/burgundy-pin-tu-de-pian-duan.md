@@ -1,6 +1,6 @@
 ---
 title: "Burgundy勃艮第拼图的片段"
-date: 2010-11-30
+date: 2026-03-23
 slug: burgundy-pin-tu-de-pian-duan
 categories:
   - 知识积累
@@ -15,6 +15,8 @@ tags:
 参加完RR的89年份酒会，当晚在Simon的介绍下，买回了Vincent Girardin Meursault Village Vieilles Vignes 2008与Corton Grand Cru Perrières 2006各一瓶，一起参加的友人也拷贝我的酒单买了他家的酒。第二天的周日立即打开了那瓶2008的梅索村级老藤，就已经初会了凡桑吉拉丹Vincent Girardin。Simon讲不久还要办他家的品酒会，当即就向少爷定了座位。
 
 ![Vincent Girardin](https://wineshe.oss-cn-shanghai.aliyuncs.com/blog/userfiles/2010/11/2010113021411812.jpg)
+
+<!--more-->
 
 Vincent Girardin最近，他家的白酒在市场上表现的很热闹，Parker给他家打了四颗星。以下这段文字摘自一家香港酒商酒庄介绍："凡桑（Vincent）是吉拉丹（Girardin）家族第11代的葡萄酒业者。他既拥有精妙的酿酒技术，也对葡萄酒充满激情，过去10年来他一直积极地发展他的酒商公司。大约1年前，他买下了亨利•克拉克酒厂（Domaine Henri Clerc）。加上之前的地产，他现在一共持有25公顷的葡萄园，其中包括位于布里尼蒙哈榭（Puligny Montrachet）、夏莎妮蒙哈榭（Chassange Montrachet）、默尔索（Meursault）的大量一级酒园（Premier Cru）地块，以及科尔登查理曼（Corton Charlemagne）、骑士蒙哈榭（Chevalier Montrachet）的特级酒园（Grand Cru）。除了质量非凡的白葡萄酒之外，他的勃艮第红酒同样不容错过。"
 
