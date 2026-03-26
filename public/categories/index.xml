@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 墨家Mojia</title>
+    <link>https://www.mojia.org/categories/</link>
+    <description>Recent content in Categories on 墨家Mojia</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.mojia.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>知识积累</title>
+      <link>https://www.mojia.org/categories/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.mojia.org/categories/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>网络娱乐</title>
+      <link>https://www.mojia.org/categories/%E7%BD%91%E7%BB%9C%E5%A8%B1%E4%B9%90/</link>
+      <pubDate>Wed, 25 Mar 2026 11:02:00 +0800</pubDate>
+      <guid>https://www.mojia.org/categories/%E7%BD%91%E7%BB%9C%E5%A8%B1%E4%B9%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>酒会活动</title>
+      <link>https://www.mojia.org/categories/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</link>
+      <pubDate>Fri, 10 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.mojia.org/categories/%E9%85%92%E4%BC%9A%E6%B4%BB%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

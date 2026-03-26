@@ -1,0 +1,30 @@
+<div class="sidebar-left">
+    <div class="sidebar-my-info">
+        <div class="sidebar-my-info-avatar">
+            <img src="{{ "images/logo.png" | absURL }}" alt="logo">
+        </div>
+        <div class="sidebar-my-info-name">
+            {{ .Site.Params.name }}
+        </div>
+        <div class="sidebar-my-info-description">
+            {{ .Site.Params.description }}
+        </div>
+    </div>
+    {{ partial "extrabar.html" . }}
+</div>
+
+<div class="sidebar-right">
+    <div class="post-list-container">
+        {{ range .Paginator.Pages }}
+        <div class="post-list-item">
+            <div class="post-item-wrapper">
+                <a href="{{ .Permalink }}" class="a-wrap">
+                <p class="post-title">{{ .Title }}</p>
+                <p class="post-item-meta">{{ .Date.Format "2006-01-02" }}</p>
+                <p class="post-summary">{{ .Description }}</p>
+                </a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>

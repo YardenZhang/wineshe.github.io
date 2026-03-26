@@ -1,0 +1,14 @@
+<div class="post-item-meta">
+    {{ .Date.Format "2006-01-02" }}
+    {{ if .Site.Params.enableReadingTime }}
+    <i class="material-icons" style="font-size:10px">schedule</i>
+    {{ $readTime := mul (div (countwords .Content) 220.0) 60 }}
+    {{ $minutes := math.Floor (div $readTime 60) }}
+    {{ $seconds := mod $readTime 60 }}
+    {{ if gt $minutes 0}}{{ $minutes }} min{{ end }}
+    {{ $seconds }} s
+    {{ end }}
+    {{ if .Draft }}
+    <span class="draft-label">{{ i18n "draft" }}</span>
+    {{ end }}
+</div>
